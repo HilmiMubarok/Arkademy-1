@@ -1,6 +1,6 @@
 <?php
 $data = array(
-	"itemId"      				=> "12341822",
+	"itemId"      				=> "66666666",
 	"itemName"   				=> "basic t-shirt ehek",
 	"price"       				=> 70000,
 	"availableColorAndSize"		=> array (array("color" => "Red", "size"=>"S","M","L"), array("color" => "solid black", "size"=>"M","L")),
