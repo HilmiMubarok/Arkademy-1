@@ -34,7 +34,7 @@ if (!empty($_GET['string']) && !empty($_GET['karakter'])) {
 							<label for="b">Karakter</label>
 							<input type="text" class="form-control" id="b" placeholder="Masukkan Karakter" name="karakter">
 						</div>
-						<button type="submit" class="btn btn-primary">Hitung</button>
+						<button type="submit" class="btn btn-primary">Hitung COYY</button>
 					</form>
 				</div>
 			</div>
