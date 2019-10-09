@@ -1,5 +1,7 @@
+<!-- How to create a dynamic triangle -->
+
 <?php
-	function segitiga($n){
+	function makeTriangle($n){
 		if ($n>10) {
 			echo "error";
 		} else {
@@ -11,4 +13,4 @@
 			}
 		}
 	}
-segitiga(7);
+makeTriangle(7);
